@@ -7,7 +7,7 @@ The goal of this mini project is to understand sales performance, discount impac
 
 ## Dataset used
 
-<a href="">View Dataset</a>
+<a href="Mini_project_Excel.xlsx">View Dataset</a>
 
 ## Dashboard Highlights
 ✔ Sales Analysis
@@ -48,12 +48,5 @@ Conditional Formatting
 
 📷 Dashboard Preview
 
-![image alt](https://github.com/anusiva05/Excel_Sales_Dashboard/blob/main/Sales_Dashboard.png?raw=true)
+![image alt]()
 
-📌 How to Use
-
-Download the Excel file
-
-Open and click Enable Editing
-
-Use slicers and filters to interact with the dashboard

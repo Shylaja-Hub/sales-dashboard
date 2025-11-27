@@ -48,5 +48,4 @@ Conditional Formatting
 
 📷 Dashboard Preview
 
-![image alt](Screenshot 2025-11-26 124004.png)
-
+<img width="1471" height="637" alt="Screenshot 2025-11-26 124004" src="https://github.com/user-attachments/assets/a1d2e515-5014-4c5d-8251-11bc00fffb07" />

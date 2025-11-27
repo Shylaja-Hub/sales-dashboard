@@ -48,5 +48,5 @@ Conditional Formatting
 
 📷 Dashboard Preview
 
-![image alt]()
+![image alt](Screenshot 2025-11-26 124004.png)
 
